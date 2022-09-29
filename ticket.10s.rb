@@ -9,7 +9,7 @@
 # <bitbar.dependencies>Ruby</bitbar.dependencies>
 
 ## CONFIGURATION
-BATCH_SLUG = 552
+BATCH_SLUG = 1058
 
 ## SCRIPT
 require 'net/http'
